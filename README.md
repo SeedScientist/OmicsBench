@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://huggingface.co/datasets/chenzihong/OmicsBench/tree/main">
+    <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-OmicsBench-FFD21E?style=flat-square" alt="Hugging Face | OmicsBench dataset" />
+  </a>
+</p>
+
 ```text
 .
 ├── data
