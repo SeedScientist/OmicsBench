@@ -111,7 +111,7 @@ All questions and solutions undergo a rigorous **two-tier validation process**:
 
 ## 📚 Citation
 
-If you use OmicsBench, please cite:
+If you find OmicsBench useful, please consider citing:
 
 ```bibtex
 @misc{ying2026toolaugmentedonpolicydistillationllm,
