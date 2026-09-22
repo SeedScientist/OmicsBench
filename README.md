@@ -108,3 +108,19 @@ All questions and solutions undergo a rigorous **two-tier validation process**:
 | Intern-S1-Pro | 20.61 | 47.93 | 43.95 | 52.27 | 17.67 | 39.53 | 3.50 | 0.00 | 0.23 | 0.00 | 0.00 | 3.99 | 10.23 | 2.41 |
 | NatureLM | -6.66 | 32.41 | 10.87 | 52.04 | 0.00 | 14.76 | 9.83 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 1.35 | 0.23 |
 | SciReasoner | 29.67 | 31.29 | 44.37 | 50.52 | 6.51 | 77.41 | 5.67 | 3.17 | 2.00 | 0.00 | 0.99 | 1.05 | 1.11 | 1.39 |
+
+## 📚 Citation
+
+If you use OmicsBench, please cite:
+
+```bibtex
+@misc{ying2026toolaugmentedonpolicydistillationllm,
+  title={Tool-Augmented On-Policy Distillation for LLM Domain Adaptation in Sequence-Based Omics Tasks},
+  author={Jie Ying and Zhefan Wang and Zihong Chen and Zhengqing Li and Jinzhe Li and Gang Li and Jian Liu and Fang Hu and Tao Luo and Zhonghang Yuan and Wanli Ouyang and Stan Z. Li and Fan Yang and Nanqing Dong},
+  year={2026},
+  eprint={2609.23435},
+  archivePrefix={arXiv},
+  primaryClass={cs.LG},
+  url={https://arxiv.org/abs/2609.23435}
+}
+```
