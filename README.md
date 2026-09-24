@@ -1,4 +1,10 @@
 <p align="center">
+  <a href="https://huggingface.co/datasets/chenzihong/OmicsBench/tree/main">
+    <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-OmicsBench-FFD21E?style=flat-square" alt="Hugging Face | OmicsBench dataset" />
+  </a>
+  <a href="https://www.modelscope.cn/datasets/chenzihong/OmicsBench/files">
+    <img src="https://img.shields.io/badge/ModelScope-OmicsBench-624AFF?style=flat-square" alt="ModelScope | OmicsBench dataset" />
+  </a>
   <a href="https://arxiv.org/abs/2609.23435">
     <img src="https://img.shields.io/badge/arXiv-2609.23435-B31B1B?style=flat-square" alt="arXiv | Paper" />
   </a>
@@ -7,12 +13,6 @@
   </a>
   <a href="https://huggingface.co/datasets/yj12869741/TA-OPD-10K">
     <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Trainset-TA--OPD--10K-FFD21E?style=flat-square" alt="Hugging Face | TA-OPD-10K training dataset" />
-  </a>
-  <a href="https://huggingface.co/datasets/chenzihong/OmicsBench/tree/main">
-    <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-OmicsBench-FFD21E?style=flat-square" alt="Hugging Face | OmicsBench dataset" />
-  </a>
-  <a href="https://www.modelscope.cn/datasets/chenzihong/OmicsBench/files">
-    <img src="https://img.shields.io/badge/ModelScope-OmicsBench-624AFF?style=flat-square" alt="ModelScope | OmicsBench dataset" />
   </a>
 </p>
 
